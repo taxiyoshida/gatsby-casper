@@ -1,7 +1,7 @@
 ---
 title: "MITのCS, ゲーム理論家集団が生んだ暗号通貨 Algorand"
 author: Ghost
-tags: []
+tags: ["Getting Started"]
 image: img/marvin-meyer-794521-unsplash.jpg
 date: "1922-12-12T10:00:00.000Z"
 draft: false
